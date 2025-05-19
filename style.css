@@ -32,7 +32,7 @@ section h2 {
     margin-bottom: 15px;
 }
 
-#produto img, #produtor img {
+#produto imagens/maca_fuji.jpg, #produtor imagens/maca_fuji.jpg {
     max-width: 100%;
     height: auto;
     display: block;
